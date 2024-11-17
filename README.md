@@ -2,7 +2,7 @@
 
 Generate unique character stories and interactions instantly. Free online tool for fanfiction writers, roleplayers, and storytellers.
 
-🌐 [headcanon-generator.org](https://headcanon-generator.org)
+🌐 [headcanon-generator.org](https://headcanon-generator.org/)
 
 ![Headcanon Generator Preview](https://headcanon-generator.org/logo.svg)
 
@@ -47,7 +47,7 @@ Headcanon Generator helps you create unique character interpretations and intera
 ## Contact
 
 📧 Email: contact@headcanon-generator.org  
-🌐 Website: [headcanon-generator.org](https://headcanon-generator.org)
+🌐 Website: [headcanon-generator.org](https://headcanon-generator.org/)
 
 ## Legal
 
