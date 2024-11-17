@@ -4,7 +4,7 @@ Generate unique character stories and interactions instantly. Free online tool f
 
 🌐 [headcanon-generator.org](https://headcanon-generator.org)
 
-![Headcanon Generator Preview](https://headcanon-generator.org/og-image.jpg)
+![Headcanon Generator Preview](https://headcanon-generator.org/logo.svg)
 
 ## About
 
